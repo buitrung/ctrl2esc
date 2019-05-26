@@ -10,8 +10,7 @@ _Transforming the most useful key **ever** in a more useful one._
 ## What is it?
 
 - Makes a single tap of `L_CTRL` into `ESC`
-- Forked from `https://gitlab.com/interception/linux/plugins/caps2esc` but
-  modified for keyboards that already have CTRL in the right place!
+- Cloned from `https://gitlab.com/grimmware/ctrl2esc` to have CTRL in the right place and normal behaviour of TAB!
 - For more in-depth information, see the original repo, the modifications here
   are exceptionally simple ones so most of the information there still applies!
 
